@@ -1,0 +1,5 @@
+spring:
+  messages:
+    basename: i18n.login #设置国际化文件前缀
+  mvc:
+    date-format: yyyy-MM-dd
